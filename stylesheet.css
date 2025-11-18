@@ -1,8 +1,13 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     /*color: beige;
+     text-align: center;*/
+     background-color: black;
 }
 
 h1{
      color: beige;
      text-align: center;
+     position: relative;
+     padding: 25px;
 }
